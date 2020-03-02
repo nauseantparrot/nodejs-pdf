@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-pdf",
+  "version": "1.0.0",
+  "description": "Library for portable document format (PDF) generation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nauseantparrot/nodejs-pdf.git"
+  },
+  "author": {
+    "name": "Nickolas Garcia",
+    "email": "gfelipenickolas@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "Nickolas Garcia",
+      "email": "gfelipenickolas@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "private": false
+}
